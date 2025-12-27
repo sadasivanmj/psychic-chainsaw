@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['tune_xi.py', 'src\\__init__.py', 'src\\bound.py', 'verify_zhang_table.py', 'src\\cross_section.py', 'argon_cross_section.py', 'src\\potential.py', 'awholelotcalc.py', 'boud_verify.py', 'overnight.py', 'plot.py', 'test.py', 'src\\continuum.py', 'Ar_Test.py', 'pureGaussian.py', 'E:\\Anaconda\\Lib\\threading.py', 'src\\normalization.py', 'Ar_Shift.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
